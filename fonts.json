@@ -54,9 +54,9 @@
       "format": "truetype"
     },
     {
-      "name": "Overpass Regular",
-      "url": "https://github.com/Giuseppesh10/larafonts/raw/refs/heads/main/fonts/overpass.regular.ttf",
-      "format": "truetype"
+  "name": "Overpass Regular",
+  "url": "https://github.com/Giuseppesh10/larafonts/raw/refs/heads/main/fonts/overpass.regular.ttf",
+  "format": "truetype"
     }
   ],
   "emojis": [
