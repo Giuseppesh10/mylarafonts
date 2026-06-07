@@ -54,8 +54,8 @@
       "format": "truetype"
     },
     {
-      "name": "Segoe UI",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/segoeui.ttf",
+      "name": "Overpass Regular",
+      "url": "https://raw.githubusercontent.com/Giuseppesh10/larafonts/main/fonts/overpass.regular.ttf",
       "format": "truetype"
     }
   ],
