@@ -12,6 +12,11 @@
     "name": "Overpass Regular",
     "url": "https://github.com/Giuseppesh10/mylarafonts/raw/refs/heads/main/fonts/overpass.regular-patched.ttf",
     "format": "truetype"
+  },
+  {
+  "name": "LUKSA",
+  "url": "https://github.com/Giuseppepesh10/mylarafonts/raw/refs/heads/main/fonts/LUKSA-patched.ttf",
+  "format": "truetype"
   }
 ],
   "emojis": [
