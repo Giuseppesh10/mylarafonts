@@ -4,19 +4,9 @@
 "repo_icon": "https://github.com/Giuseppesh10.png",
 "fonts": [
   {
-    "name": "Asap Regular",
-    "url": "https://github.com/Giuseppesh10/mylarafonts/raw/refs/heads/main/fonts/Asap-Regular-patched.ttf",
-    "format": "truetype"
-  },
-  {
     "name": "Overpass Regular",
     "url": "https://github.com/Giuseppesh10/mylarafonts/raw/refs/heads/main/fonts/overpass.regular-patched.ttf",
     "format": "truetype"
-  },
-  {
-  "name": "LUKSA",
-  "url": "https://github.com/Giuseppepesh10/mylarafonts/raw/refs/heads/main/fonts/LUKSA-patched.ttf",
-  "format": "truetype"
   }
 ],
   "emojis": [
