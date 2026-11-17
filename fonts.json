@@ -4,53 +4,13 @@
 "repo_icon": "https://github.com/Giuseppesh10.png",
 "fonts": [
   {
-    "name": "Actor Regular",
-    "url": "https://github.com/Giuseppesh10/mylarafonts/raw/refs/heads/main/fonts/Actor-Regular-patched.ttf",
-    "format": "truetype"
-  },
-  {
-    "name": "Antipasto Light",
-    "url": "https://github.com/Giuseppesh10/mylarafonts/raw/refs/heads/main/fonts/antipasto.light-patched.ttf",
-    "format": "truetype"
-  },
-  {
     "name": "Asap Regular",
     "url": "https://github.com/Giuseppesh10/mylarafonts/raw/refs/heads/main/fonts/Asap-Regular-patched.ttf",
     "format": "truetype"
   },
   {
-    "name": "Eightgon Regular",
-    "url": "https://github.com/Giuseppesh10/mylarafonts/raw/refs/heads/main/fonts/eightgon.regular-patched.ttf",
-    "format": "truetype"
-  },
-  {
-    "name": "Fira Sans Regular",
-    "url": "https://github.com/Giuseppesh10/mylarafonts/raw/refs/heads/main/fonts/FiraSans-Regular-patched.ttf",
-    "format": "truetype"
-  },
-  {
-    "name": "Friendly Sans Regular",
-    "url": "https://github.com/Giuseppesh10/mylarafonts/raw/refs/heads/main/fonts/friendly-sans.regular-patched.ttf",
-    "format": "truetype"
-  },
-  {
-    "name": "Mali Regular",
-    "url": "https://github.com/Giuseppesh10/mylarafonts/raw/refs/heads/main/fonts/Mali-Regular-patched.ttf",
-    "format": "truetype"
-  },
-  {
     "name": "Overpass Regular",
     "url": "https://github.com/Giuseppesh10/mylarafonts/raw/refs/heads/main/fonts/overpass.regular-patched.ttf",
-    "format": "truetype"
-  },
-  {
-    "name": "Play Regular",
-    "url": "https://github.com/Giuseppesh10/mylarafonts/raw/refs/heads/main/fonts/play.regular-patched.ttf",
-    "format": "truetype"
-  },
-  {
-    "name": "QuickSand",
-    "url": "https://github.com/Giuseppesh10/mylarafonts/raw/refs/heads/main/fonts/QuickSand.ttf",
     "format": "truetype"
   }
 ],
